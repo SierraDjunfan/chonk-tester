@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/chonk-tester/static/css/main.41e19cc2.css",
+    "main.js": "/chonk-tester/static/js/main.3f6b67b0.js",
+    "static/media/6.png": "/chonk-tester/static/media/6.f6b4bc0a88c33dcc18f0.png",
+    "static/media/5.png": "/chonk-tester/static/media/5.c9b152872e9a45969577.png",
+    "static/media/4.png": "/chonk-tester/static/media/4.e48a61df5956c26b2c96.png",
+    "static/media/3.png": "/chonk-tester/static/media/3.a38a03cbd633db218d62.png",
+    "static/media/2.png": "/chonk-tester/static/media/2.8b131583dfd7c0df3894.png",
+    "static/media/1.png": "/chonk-tester/static/media/1.c41286f9c90a9d18cb32.png",
+    "index.html": "/chonk-tester/index.html",
+    "main.41e19cc2.css.map": "/chonk-tester/static/css/main.41e19cc2.css.map",
+    "main.3f6b67b0.js.map": "/chonk-tester/static/js/main.3f6b67b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e19cc2.css",
+    "static/js/main.3f6b67b0.js"
+  ]
+}
